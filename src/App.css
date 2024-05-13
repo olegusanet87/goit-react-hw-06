@@ -1,0 +1,9 @@
+.header {
+  background-color: #fafafa;
+  margin-left: 20px;
+  width: 320px;
+  padding: 4px 8px;
+  box-sizing: border-box;
+  border-radius: 6px;
+  color: #0f0f0f;
+}
